@@ -1,0 +1,19 @@
+
+
+{
+  "sections":
+    [
+      {
+        "name": "¿Por donde empiezo a aprender?",
+        "url": "/por-donde-empiezo"
+      },
+      {
+        "name": "Ramas de la programación",
+        "url": "/ramas-de-la-programacion"
+      },
+      {
+        "name": "Preguntas frecuentes sobre aprender a programar",
+        "url": "/faq"
+      }
+    ]
+}
